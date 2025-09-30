@@ -176,7 +176,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "coinpayments"
+name = "coinpayments-rs"
 version = "0.1.0"
 dependencies = [
  "chrono",
